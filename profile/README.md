@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 
@@ -10,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Présentation
+# Présentation 👋
 
 Bonjour, je m'appelle Amaury Lyonnet et je suis passionné par l'informatique depuis mon plus jeune age. Etudiant à lyon Ynov Campus j'ai développer les compétences suivantes: 
 - Développer un site web, une application mobile et des jeux vidéo 
